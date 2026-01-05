@@ -1,6 +1,5 @@
 import tkinter as tk
 import subprocess
-import subprocess
 import sys
 
 try:
